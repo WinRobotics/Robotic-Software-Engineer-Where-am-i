@@ -3,16 +3,8 @@ Udacity Project
 
 
 
-https://user-images.githubusercontent.com/53950231/143896745-63ca0189-9ee3-4227-872e-00d8168d0f35.mp4
-
-
-
 https://user-images.githubusercontent.com/53950231/143902833-994d92ac-3317-446f-b2f0-67a5ae6b5716.mp4
 
-
-
-
-Pleae download video to see, skip to 15s to start
 
 To run:
 
